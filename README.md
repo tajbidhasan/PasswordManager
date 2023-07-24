@@ -4,12 +4,19 @@
     <p>This code is a simple password manager application built using the Tkinter library in Python. 
     The application provides a graphical user interface (GUI) that allows users to store and retrieve their website 
     login credentials (website, email/username, and password) securely. The password generator feature also enables users to create strong and random passwords for their accounts.</p>
+    <h2 align="center">Video Demo</h2>
+    <p align="center">
+        <a href="https://youtu.be/4XFKmoh0mMo">
+            <img src="https://img.youtube.com/vi/4XFKmoh0mMo/0.jpg" alt="Video">
+        </a>
+    </p>
 <h2>Features:</h2>
 <ul>
     <li><strong>Password Generator:</strong> The application includes a password generator function that creates strong and random passwords consisting of letters (both lowercase and uppercase), numbers, and symbols. The generated password can be copied and used for various accounts.</li>
     <li><strong>Save Passwords:</strong> Users can input the website, email/username, and password into the designated input fields and click the "Add" button to save their login credentials. The data is stored in a JSON file named "data.json" in the same directory as the application.</li>
     <li><strong>Search Passwords:</strong> Users can search for their saved passwords by entering the website's name and clicking the "Search" button. If the website's data is present in the JSON file, the application will display the corresponding email/username and password.</li>
 </ul>
+
 
 <h2>Usage:</h2>
 <ul>
